@@ -239,9 +239,9 @@ Logout → Session Destroyed
 ## 🔜 Next Steps
 
 Planning to learn:
-- [ ] Database-backed authentication (JPA/Hibernate)
+- [x] Database-backed authentication (JPA/Hibernate)
+- [x] Method-level security (`@PreAuthorize`)
 - [ ] Custom login page design
-- [ ] Method-level security (`@PreAuthorize`)
 - [ ] JWT token authentication
 - [ ] OAuth2 integration
 - [ ] Password reset functionality
